@@ -492,7 +492,6 @@ docs.web.roku.com
 downloads.hipchatserver.com
 dr1ve.fgmc.com
 drbpm.greenpacket.com
-easeweb-prod-glb.aws-stsd.capitalonegslbex.com
 ec1.shopatron.com
 edm.oceanpark.com.hk
 edu.kxjjw.com
